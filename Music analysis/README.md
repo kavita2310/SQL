@@ -1,4 +1,4 @@
-SQL Project Music Store Analysis<h1>
+<h1>SQL Project Music Store Analysis</h1>
 
 Project overview:<br>
 
