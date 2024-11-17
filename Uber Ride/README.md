@@ -27,6 +27,21 @@ gain insights into ride patterns, trends and customer behaviour.<br>
 •	Total spend: Passenger total spend.<br>
 •	Rating: Passenger giver rating.<br>
 
+<h1> Task:</h1>
+
+1) Ride Patterna Analysis: Analyze ride patterns, including:<br>
+   . Most popular pickup and droupoff location.<br>
+   . Busiest days and times for rides.<br>
+   . Average ride distance and fare.<br>
+2) User Behavior Analysis: Analyze user behaviour, including:<br>
+   . Most frequent riders.<br>
+   . User demographics.(e.g: age, gender)<br>
+   . User payment perferences.<br>
+3) Payment Analysis: Analyze payment data, including:<br>
+   . Most popular payment methods.<br>
+   . Average payment amount.<br>
+   . Payment trends over time.<br>        
+
 <h1>Data Sources:</h1>
 
 The data use for this project available from the Uber ride public dataset by Uber. Which  contain information on driver name, passenger name, rating, etc.<br>
