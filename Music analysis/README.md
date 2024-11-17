@@ -1,10 +1,11 @@
 <h1>SQL Project Music Store Analysis</h1>
 
-Project overview:<br>
+<h1>Project overview:</h1>
 
 This project focuses on  analysis the Music store analysis. To analyze music sales data to gain insights into customer behaviour, sales, treads and artist/album performance. 
 
-Key Analysis Performed:<br>
+<h1>Key Analysis Performed:</h1>
+
 •	Artist:  Artist id (Artist id) <br> 
              Name (Artist name)<br>
 •	Album:  Album id (Albums id)<br>
@@ -63,16 +64,18 @@ Key Analysis Performed:<br>
                      Fax (Employee fax)<br>
                     Email (Employee email id)<br>
 
-Data Sources:<br>
+<h1>Data Sources:</h1>
+
 The data use for this project available from the social media. Which  contain information on artist, album, track, media, type, genre, invoice line, customer, employee. 
  
 
 
-Technology used: <br>
+<h1>Technology used:</h1>
 
 SQL: For querying of the analysis include.
 
-Insights and Findings:<br>
+
+<h1>Insights and Findings:</h1>
 
 
 •	Identify senior most employee based on job title.<br>
