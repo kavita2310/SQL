@@ -1,9 +1,12 @@
-Uber Ride Analysis
+<h1>Uber Ride Analysis(SQL)</h1>
 
-Project overview:<br>
-This project focuses on  analysis the Uber Rider improve the rating. To analyze Uber ride data and gain insights into ride patterns, trends and customer behaviour.<br>
+<h1>Project overview:</h1>
 
-Key Analysis Performed:<br>
+This project focuses on  analysis the Uber Rider improve the rating. To analyze Uber ride data and<br>
+gain insights into ride patterns, trends and customer behaviour.<br>
+
+<h1>Key Analysis Performed:</h1>
+
 •	Ride id: Rider id.<br>
 •	Driver id: Divers id.<br>
 •	Passenger id: Passenger id.<br>
@@ -24,17 +27,20 @@ Key Analysis Performed:<br>
 •	Total spend: Passenger total spend.<br>
 •	Rating: Passenger giver rating.<br>
 
-Data Sources:<br>
+<h1>Data Sources:</h1>
+
 The data use for this project available from the Uber ride public dataset by Uber. Which  contain information on driver name, passenger name, rating, etc.<br>
 
 
-Technology used: <br>
+<h1>Technology used:</h1>
+
 SQL: For querying of the analysis include.<br>
 
-Insights and Findings:<br>
+<h1>Insights and Findings:</h1>
+
 •	Peak hours and days.<br>
 •	Popular pickup and dropoff locations.<br>
-•	 Average fare trends.<br>
+•	Average fare trends.<br>
 •	Driver performance metrics.<br>
 •	Rider loyalty and frequency.<br>
 
