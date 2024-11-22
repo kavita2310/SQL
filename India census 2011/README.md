@@ -44,12 +44,13 @@ Pandas: For data cleaning.<br>
 
 <h1>Insights and Findings:</h1>
 
-•	Population growth rate: Longleng, New Delhi, Nicobar district  has lowest population growth.<br> 
+•	<h1>Population growth rate:</h1> Longleng, New Delhi, Nicobar district  has lowest population growth.<br> 
  Kohima, Dimapur, Kurung kumey district  has highest population growth.<br> 
-•	Sex ratio: Daman, Leh, Tawang district has lowest sex ration.<br>  
+•	<h1>Sex ratio:</h1> Daman, Leh, Tawang district has lowest sex ration.<br>  
  Mahe, Almora, Kannur district  has highest sex ratio.<br> 
-•	Literacy rate: Alirajpur, Bijapur, Dantewada district has lower literacy rate.  Serchhip, Aizawl, Mahe district has highest literacy rate.<br> 
-•	Population area pre kilometre square: Mahe, Central, Lakshadweep district has lower area km2.<br> 
+•	<h1>Literacy rate:</h1> Alirajpur, Bijapur, Dantewada district has lower literacy rate.<br> 
+Serchhip, Aizawl, Mahe district has highest literacy rate.<br> 
+•	<h1>Population area pre kilometre square:</h1> Mahe, Central, Lakshadweep district has lower area km2.<br> 
  Kachcha, Leh, Jaisalmer district has highest area km2.<br> 
-•	Population: Dibang valley, Anjaw, Lahul and spiti district has lower population.<br>  
+•	<h1>Population:</h1> Dibang valley, Anjaw, Lahul and spiti district has lower population.<br>  
  Thane, North twenty four parganas, Bangalore district has highest population.<br> 
