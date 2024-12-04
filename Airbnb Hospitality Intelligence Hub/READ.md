@@ -19,7 +19,8 @@ increase occupancy rates, improve listings based on customer preferences, and en
 
 The dataset consists of two tables:<br>
 Table 1: Listing Table: The ‘Listings' table contains information on the various neighbourhoods in New York City, including the 
-types of listings available in each neighborhoods. 
+types of listings available in each neighborhoods.<br>
+
 •	id: A unique identifier for each listing.<br>
 •	Name: The name of the listing.<br>
 •	Host id: A unique identifier for the host of the listing.<br>
@@ -29,6 +30,7 @@ types of listings available in each neighborhoods.
 •	Room Type: The type of room that is being listed (e.g. private room, entire apartment).<br>
 
 Table 2: Booking Details Table: The Booking details table contains information on the various price, minimum nights, number of reviews etc.<br>
+
 •	Listing id: A unique identifier for each listing.<br>
 •	Price: The nightly price of the listing.<br>
 •	Minimum Nights: The minimum number of nights that a guest must book in order to stay at the listing.<br>
